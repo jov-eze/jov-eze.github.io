@@ -1,0 +1,19 @@
+/*HEAD*/
+
+   head {
+      width:960px
+      margin: 20px auto 1px auto;
+   }
+
+   p.head {
+      color:rgb(200,200,200);
+       font-style:times; 
+       text-align:center; 
+       text-transform:uppercase;
+       font-size:54px;
+       border-bottom:2px solid rgb(0,0,0);
+       border-top:1px solid rgb(200,200,200);
+       padding:3px;
+       max-width:960px;
+       margin: 20px auto 1px auto;
+    }
